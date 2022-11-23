@@ -15,3 +15,4 @@ A repair log written in Markdown...
   常备Windows镜像启动盘
 + 代码56：找不到网卡设备
   通常与VMWare有关，使用CCleaner清理注册表。
++ 
